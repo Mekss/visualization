@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(204, 204, 204);
+}
+
+h1 {
+  color: rgb(1, 42, 88);
+  margin-left: 30px;
+  text-align: left;
+  font-family: Verdana;
+  font-size: 300%;
+}
+
+text {
+  font-family: monospace;
+}
